@@ -24,14 +24,16 @@ label {
     margin-bottom: 4px;
 }
 
-input, select {
+input,
+select {
     width: 100%;
     max-width: 360px;
     padding: 8px;
     box-sizing: border-box;
 }
 
-button, .botao {
+button,
+.botao {
     margin-top: 16px;
     background: #222222;
     color: #ffffff;
@@ -52,7 +54,8 @@ table {
     margin-top: 12px;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #cccccc;
     padding: 8px;
     text-align: left;
